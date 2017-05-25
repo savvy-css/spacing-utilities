@@ -23,6 +23,9 @@ npm install --save-dev @savvy-css/spacing-utilities
 
 ## Usage
 
+See the comments in the [main CSS file](/lib/index.css) for detailed usage and implementation details.
+
+
 
 [npm-badge]: https://img.shields.io/npm/v/@savvy-css/@savvy-css/spacing-utilities.svg
 [npm-badge-url]: https://www.npmjs.com/package/@savvy-css/@savvy-css/spacing-utilities

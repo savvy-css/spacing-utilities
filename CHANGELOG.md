@@ -1,3 +1,3 @@
-# 0.0.0 &mdash; May 24, 2017
+# 0.0.1 &mdash; May 24, 2017
 
--   Initial project build.
+- Initial project setup.
