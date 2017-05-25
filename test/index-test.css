@@ -4,3 +4,19 @@ html {
   font-size: 100%;
   font-family: 'Open Sans', 'Helvetica Neue', Helvetica, sans-serif;
 }
+
+body {
+  background-color: hsla(0, 100%, 98%, 1.0);
+}
+
+.demo-lines {
+  width: 75%;
+}
+
+.demo-lines .demo-line {
+  height: 3rem;
+}
+
+.demo-lines .demo-line {
+  background-color: blueviolet;
+}
